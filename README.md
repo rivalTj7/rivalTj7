@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi, I am Rivaldo Tojín 👋
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rivalTJ7&theme=default_radius=2.5&date_format=M%20j%5B%2C%20Y%5D)
 
