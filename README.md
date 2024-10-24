@@ -3,8 +3,12 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rivalTJ7&theme=default_radius=2.5&date_format=M%20j%5B%2C%20Y%5D)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivalTJ7&show_icons=true&theme=radical)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rivalTJ7" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivalTJ7&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **rivalTj7/rivalTj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
