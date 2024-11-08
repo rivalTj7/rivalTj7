@@ -1,8 +1,6 @@
 
 ### Hi, I am Rivaldo Tojín 👋
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rivalTJ7&theme=default_radius=2.5&date_format=M%20j%5B%2C%20Y%5D)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rivalTJ7" />
 </a>
